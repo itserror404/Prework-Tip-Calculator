@@ -1,8 +1,8 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Crunch*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip Crunch** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Maimuna Zaheer**
 
 Time spent: **X** hours spent in total
 
