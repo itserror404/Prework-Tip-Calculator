@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Alt text](https://i.imgur.com/cKntf4D.gif =300x600)
+![Alt text](https://i.imgur.com/cKntf4D.gif=300x600)
 
 GIF created with [Ezgif.com](https://ezgif.com/video-to-gif).
 
