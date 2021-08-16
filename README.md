@@ -4,7 +4,7 @@
 
 Submitted by: **Maimuna Zaheer**
 
-Time spent: **10** hours spent in total
+Time spent: **12-13** hours spent in total
 
 ## User Stories
 
